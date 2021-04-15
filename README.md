@@ -13,6 +13,16 @@ Use of the computer vison convolutional neural networks library to detect faces 
 ## Input Image
 ![image](https://user-images.githubusercontent.com/64376922/114841905-f7826b80-9df5-11eb-9887-19593db060c4.png)
 
+## Output
+#### Faces Detected
+![image](https://user-images.githubusercontent.com/64376922/114842397-6cee3c00-9df6-11eb-92aa-6ddd4505893e.png)
+
+#### Boxes on faces that are detected
+![image](https://user-images.githubusercontent.com/64376922/114842481-81cacf80-9df6-11eb-8551-244b9b8cfef1.png)
+
+#### Images saved in folder test_faces
+![image](https://user-images.githubusercontent.com/64376922/114842525-8becce00-9df6-11eb-856b-42174718efcb.png)
+
 ## Result
 This project which used the MTCNN library detected the faces in the photograph and stored it in the test_faces folder for double checking. It successfully displayed faces in boxes and gave the number of students present in the classroom to help out the teacher while taking attendance.
 
